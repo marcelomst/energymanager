@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@types/mocha": "^10.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^18.13.0"
+  }
+}
